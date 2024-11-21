@@ -1,3 +1,3 @@
 # Codecademy-Guessing-Game
 
-Guess a number to beat the computer!
+Guess the random number or be closer to beat the computer!
